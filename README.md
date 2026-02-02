@@ -248,3 +248,6 @@ For questions or issues:
 
 **Built with ❤️ using Streamlit and Scikit-learn**
 
+=======
+# MoviePredictior
+>>>>>>> d645b51c1e2502d0261980402e5e3ada95c313e2
